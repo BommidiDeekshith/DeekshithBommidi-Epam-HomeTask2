@@ -1,2 +1,2 @@
 # Epam-HomeTask2
-Epam 2nd week Hometask
+Epam 2nd Week Hometask-Assignment based on Maven and OOPS
